@@ -1,6 +1,8 @@
 # ServiceLoader Maven Plugin Example
 
-This repository demonstrates the use of the `serviceloader-maven-plugin` for seamless `ServiceLoader` auto service discovery in a Maven multi-module project.
+Demonstrating the use of the `serviceloader-maven-plugin` for seamless `ServiceLoader` auto service discovery in a Maven multi-module project.
+
+> I fell back to this after failing to make the [conventional](https://docs.oracle.com/javase%2F9%2Fdocs%2Fapi%2F%2F/java/util/ServiceLoader.html) JDK service auto discovery work as expected in a multi-module Maven project
 
 ## Key Components
 
